@@ -1,7 +1,5 @@
 ---
-reviewers:
-- erictune
-title: Init Contêineres
+title: contêineres de inicialização
 content_type: concept
 weight: 40
 ---
